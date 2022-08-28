@@ -2,7 +2,7 @@
 #### Software Engineer | Backend Developer
 I am working as a backend developer on mulitple applications innovating different things
 
-Skills: HTML / CSS / BOOTSTRAP / JS / PHP / LARAVEL / PYTHON / JAVA
+Skills: HTML / CSS / BOOTSTRAP / JS / PHP / LARAVEL / PYTHON / JAVA / CODEIGNITER / YII 1 
 
 - 🔭 I’m currently working on PHP | LARAVEL 
 - 🌱 I’m currently learning PYTHON WITH AI | JS 
