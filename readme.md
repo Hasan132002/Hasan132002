@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Hasan Raza
-#### Software Engineer | Backend Developer
+#### Software Engineer | FullStack Developer | Associate Software Engineer
 I am working as a backend developer on mulitple applications innovating different things
 
 Skills: HTML / CSS / BOOTSTRAP / JS / PHP / LARAVEL / PYTHON / JAVA / CODEIGNITER / YII 1 
