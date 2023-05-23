@@ -2,6 +2,8 @@
 #### Software Engineer | FullStack Developer | Associate Software Engineer
 I am working as a backend developer on mulitple applications innovating different things
 
+Portfolio : https://hasan132002.github.io/portfolio_Fullstack/
+
 Skills: HTML / CSS / BOOTSTRAP / JS / PHP / LARAVEL / PYTHON / JAVA / CODEIGNITER / YII 1 
 
 - 🔭 I’m currently working on PHP | LARAVEL 
@@ -9,7 +11,6 @@ Skills: HTML / CSS / BOOTSTRAP / JS / PHP / LARAVEL / PYTHON / JAVA / CODEIGNITE
 - 💬 Ask me about bug and error as well as beckend guides 
 - 📫 How to reach me: can mail me or can contact me as well 
 - ⚡ Fun fact: National Level wrestler | District level Cricketer 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Hasan132002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Hasanraza132002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasan-raza-8055541a6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/HasanRaza200/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/h_a_s_a_n__r_a_z_a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/hasan-raza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14166067/hasan-raza)  
 
@@ -20,4 +21,5 @@ Skills: HTML / CSS / BOOTSTRAP / JS / PHP / LARAVEL / PYTHON / JAVA / CODEIGNITE
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Hasan132002)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Hasan132002)  
+
 
