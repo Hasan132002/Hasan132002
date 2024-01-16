@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Hasan Raza
-#### Software Engineer | FullStack Developer | Associate Software Engineer
+#### Software Engineer | FullStack Developer | Software Engineer
 I am working as a backend developer on mulitple applications innovating different things
 
 Portfolio : https://hasan132002.github.io/portfolio_Fullstack/
 
-Skills: HTML / CSS / BOOTSTRAP / JS / PHP / LARAVEL / PYTHON / JAVA / CODEIGNITER / YII 1 
+Skills: HTML / CSS / BOOTSTRAP / JS / PHP / LARAVEL / PYTHON / JAVA / CODEIGNITER / YII 1 / NODEJS / EXPRESS / REACT JS / ANGULAR JS
 
 - 🔭 I’m currently working on PHP | LARAVEL 
 - 🌱 I’m currently learning PYTHON WITH AI | JS 
