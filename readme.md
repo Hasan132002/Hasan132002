@@ -44,7 +44,5 @@ I am working as a backend developer on multiple applications and constantly inno
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasan132002&theme=dark&hide_border=false)
 
-![GitHub Metrics](https://metrics.lecoq.io/Hasan132002)
 
----
 
