@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Hasan Raza  
-#### Software Engineer | FullStack Developer | Backend Specialist
+#### Software Engineer | FullStack Developer | Backend Specialist | AI Engineer | Data Science
 
 I am working as a backend developer on multiple applications and constantly innovating new solutions.
 
