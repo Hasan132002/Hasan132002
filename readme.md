@@ -13,8 +13,8 @@ I am working as a backend developer on multiple applications and constantly inno
 ---
 
 ### 📌 About Me:
-- 🔭 Currently working on: `PHP` & `LARAVEL`
-- 🌱 Learning: `Python with AI` | `JavaScript`
+- 🔭 Currently working on: `PHP` , `LARAVEL` , `.NET` , `NEST JS` , `Python`  
+- 🌱 Learning: `Python with DataScience` | `Three.JS`
 - 💬 Ask me about: Backend bugs, errors, system design
 - 📫 Reach me: Email or social platforms below
 - ⚡ Fun fact: National-level wrestler & district-level cricketer 🥇🏏
