@@ -1,7 +1,8 @@
-<!-- ============ HEADER BANNER ============ -->
+<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,50:c084fc,100:f472b6&height=200&section=header&text=Hasan%20Raza&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20System%20Design%20%C2%B7%20Full-Stack%20%26%20AI&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Hasan Raza" />
+# Hi, I'm Hasan Raza 👋
+### 🚀 Software Engineer · Backend & System Design · Full-Stack & AI
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=I+build+scalable+backends+%F0%9F%9A%80;Full-stack+products%2C+end-to-end+%E2%9A%A1;AI%2FML+systems+%26+data+pipelines+%F0%9F%A4%96;Clean+architecture%2C+real+systems+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
@@ -111,12 +112,7 @@ const hasan = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hasan132002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=818cf8&icon_color=c084fc" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan132002&theme=react&hide_border=true&background=0D1117&ring=c084fc&fire=f472b6&currStreakLabel=818cf8" alt="streak" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan132002&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=818cf8" alt="top langs" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hasan132002&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7" width="100%" alt="trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan132002&theme=react&hide_border=true&background=0D1117&ring=c084fc&fire=f472b6&currStreakLabel=818cf8" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasan132002&theme=react-dark&hide_border=true&bg_color=0D1117&color=818cf8&line=c084fc&point=f472b6&area=true" width="100%" alt="activity graph" />
 
@@ -138,7 +134,7 @@ const hasan = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:c084fc,100:818cf8&height=120&section=footer" width="100%" alt="footer" />
 
 <i>⭐️ From <a href="https://github.com/Hasan132002">Hasan132002</a> — "Design the data model right, the rest follows."</i>
+
 </div>
